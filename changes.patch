@@ -1,0 +1,18 @@
+diff --git a/FileB.txt b/FileB.txt
+index 6177d56..7790a0e 100644
+--- a/FileB.txt
++++ b/FileB.txt
+@@ -1 +1 @@
+-My name is Delaram!   
+\ No newline at end of file
++My name is Delaram!     
+\ No newline at end of file
+diff --git a/FileC.txt b/FileC.txt
+index 563076d..25e60ec 100644
+--- a/FileC.txt
++++ b/FileC.txt
+@@ -1 +1 @@
+-I am a programmer.   
+\ No newline at end of file
++I am a programmer.       
+\ No newline at end of file
